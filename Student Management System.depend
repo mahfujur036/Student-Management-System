@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1512731391 source:e:\c\student management system\menu.c
+	<stdio.h>
+	"functions.h"
+
+1512731348 source:e:\c\student management system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"functions.h"
+
+1512447545 source:e:\c\student management system\insert.c
+	<stdio.h>
+	<string.h>
+	"functions.h"
+
+1512445732 e:\c\student management system\functions.h
+
+1512445226 source:e:\c\student management system\output.c
+	<stdio.h>
+
+1512400346 source:e:\c\student management system\search.c
+	<stdio.h>
+
+1512445153 source:e:\c\student management system\update.c
+	<stdio.h>
+
+1512448287 source:e:\c\student management system\delete.c
+	<stdio.h>
+
